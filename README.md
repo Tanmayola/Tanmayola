@@ -25,9 +25,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 - [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/tanmay-ola-38a108264/))
 - [Twitter]([your-twitter-url](https://x.com/Tanmayola1))
