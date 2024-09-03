@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 
 ## 🛠️ Technologies & Tools
 - **Operating Systems**: Linux RHEL
-- **Cloud Platforms**: AWS
+- **Cloud Platforms**: AWS , Azure
 - **Version Control**: GIT/GITHUB
 - **Containerization**: Docker
 - **Scripting Languages**: Python, JavaScript
