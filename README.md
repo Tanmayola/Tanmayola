@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tanmay-ola-38a108264/)
 - [Twitter](https://x.com/Tanmayola1)
-- .[Meddium](https://medium.com/@tanmayola04)
+- [Meddium](https://medium.com/@tanmayola04)
 
 ![Footer GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
