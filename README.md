@@ -5,11 +5,9 @@
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong background in Linux RHEL, AWS, GIT/GITHUB, Docker, Python, Ansible, Terraform, Jenkins, and Infrastructure as Code. I also have experience in JavaScript and MongoDB.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [your current project or job]
-- 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on [open source project or area of interest]
+- 🌱 I’m currently learning MERN and DevOps
 - 💬 Ask me about DevOps, AWS, Linux, or any of my listed skills
-- 📫 How to reach me: tanmayola04@gmail.com , Linkdin
+- 📫 How to reach me: tanmayola04@gmail.com , Linkdin : https://www.linkedin.com/in/tanmay-ola-38a108264/
 
 ## 🛠️ Technologies & Tools
 - **Operating Systems**: Linux RHEL
@@ -21,12 +19,13 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a strong bac
 - **Infrastructure as Code**: Terraform
 - **CI/CD**: Jenkins
 - **Databases**: MongoDB
+- **FrameWorks**: NODE.JS,NEXT.JS
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/tanmay-ola-38a108264/))
-- [Twitter]([your-twitter-url](https://x.com/Tanmayola1))
+- [LinkedIn](https://www.linkedin.com/in/tanmay-ola-38a108264/))
+- [Twitter]((https://x.com/Tanmayola1))
 
 ![Footer GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
